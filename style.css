@@ -22,7 +22,7 @@ body {
 
 header {
     position: absolute;
-    color: f7e414;
+    color: #f7e414;
     width: 100vw;
     text-align: center;
     margin-top: 35px;
@@ -80,7 +80,7 @@ h2 {
 }
 
 .drum-inactive {
-    border: 2px solid f7e414;
+    border: 2px solid #f7e414;
     border-radius: 8px;
 }
 
@@ -115,7 +115,7 @@ h2 {
     }
     100% {
         transform: rotate(-5deg);
-        border: 4px solid orange;
+        border: 4px solid #f79114;
     }
 }
 
@@ -150,7 +150,7 @@ h2 {
     }
     100% {
         transform: rotate(5deg);
-        border: 4px solid orange;
+        border: 4px solid #f79114;
     }
 }
 
@@ -163,7 +163,7 @@ h2 {
 @keyframes border-pop-spacebar {
     0% {
         transform: rotate(5deg);
-        border: 10px solid f7e414;
+        border: 10px solid #f7e414;
     }
     10% {
         transform: rotate(-5deg);
@@ -183,7 +183,7 @@ h2 {
         transform: rotate(5deg);
     }
     100% {
-        border: 4px solid orange;
+        border: 4px solid #f79114;
         
     }
 }
@@ -209,7 +209,7 @@ h3 {
 
 a {
     text-decoration: none;
-    color: f7e414;
+    color: #f7e414;
 }
 
 a:hover {
